@@ -103,8 +103,17 @@ h6 {
     background-color: #f8f8f8;
 }
 
+.live{
+    margin-right: 10px;
+}
+
 .section-heading {
-    margin-bottom: 30px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.section-links{
+  margin-bottom: 18px;
 }
 
 .section-heading-spacer {
